@@ -1,0 +1,6 @@
+{
+  "name": "NovaTech",
+  "description": "A premium, high-fidelity single-page portfolio and marketing platform for NovaTech, featuring digital aesthetics, glassmorphic UI elements, interactive portfolio filters, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
